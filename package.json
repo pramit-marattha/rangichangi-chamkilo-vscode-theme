@@ -1,0 +1,30 @@
+{
+    "name": "rangichangi-chamkilo",
+    "displayName": "RangiChangi Chamkilo",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "publisher":"pramitmarattha",
+    "author": "pramit marattha",
+    "license": "MIT",
+    "homepage": "https://github.com/pramit-marattha/rangichangi-chamkilo-vscode-theme",
+    "repository": "https://github.com/pramit-marattha/rangichangi-chamkilo-vscode-theme",
+    "keywords": [
+        "vs code theme"
+    ],
+    "icon":"rangiChangi.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "RangiChangi Chamkilo Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/RangiChangi Chamkilo Theme-color-theme.json"
+            }
+        ]
+    }
+}
