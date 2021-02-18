@@ -8,6 +8,10 @@
 <img src="https://user-images.githubusercontent.com/37651620/108192275-2c4aad00-713c-11eb-95fd-ddf0387d01a2.png" alt="rangi changi" />
 </p>
 
+<p align="center">
+<a href="https://www.producthunt.com/posts/rangichangi-chamkilo-vscode-theme?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-rangichangi-chamkilo-vscode-theme" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=285038&theme=light" alt="RangiChangi chamkilo vscode theme. - vscode theme,extension, | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</p>
+
 <table align="center" width="800">
 <tr>
 <td colspan="4" align="center">
